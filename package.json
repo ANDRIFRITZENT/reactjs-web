@@ -2,7 +2,7 @@
   "name": "reacjs-coba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ANDRIFRITZENT.github.io/reacjs-web",
+  "homepage": "https://ANDRIFRITZENT.github.io/reactjs-web",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
